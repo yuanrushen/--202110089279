@@ -31,4 +31,4 @@ class number{
 		}
 		System.out.println("ÆæÊıÖ®ºÍ="+sum);
 	}
-}
+}//aa
